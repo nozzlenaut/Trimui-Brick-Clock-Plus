@@ -1,0 +1,8 @@
+{
+  "name": "Clock+",
+  "version": "0.3.2",
+  "type": "TOOL",
+  "description": "Low-brightness bedside clock with battery and live sync status.",
+  "author": "Dalton + ChatGPT",
+  "platforms": ["tg5040"]
+}

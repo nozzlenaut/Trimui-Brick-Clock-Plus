@@ -1,0 +1,6 @@
+# Binary stuff should stay binary. Git does not need to be clever here.
+Clock.pak/bin/brickclock binary
+Clock.pak/font.ttf binary
+
+# Shell scripts should keep Unix line endings.
+*.sh text eol=lf
