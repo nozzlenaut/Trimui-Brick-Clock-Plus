@@ -1,4 +1,4 @@
-﻿# Development notes
+# Development notes
 
 This file exists because the current Clock+ works, but part of how it works is objectively weird and I do not want to rediscover it later.
 

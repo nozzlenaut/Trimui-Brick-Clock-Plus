@@ -1,4 +1,4 @@
-﻿# Setup
+# Setup
 
 This is the boring, repeatable setup. That is intentional.
 

@@ -1,4 +1,4 @@
-﻿# Syncthing setup
+# Syncthing setup
 
 Clock+ does not install Syncthing for you. It talks to a Syncthing install that is already working on the Brick.
 

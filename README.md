@@ -1,4 +1,4 @@
-﻿# TrimUI Brick Clock+
+# TrimUI Brick Clock+
 
 I wanted a low-brightness bedside clock on the TrimUI Brick. Then I wanted opening the clock to force my two Bricks to sync. Then I wanted the clock to actually tell me whether that sync worked instead of making me go check Syncthing like an animal.
 

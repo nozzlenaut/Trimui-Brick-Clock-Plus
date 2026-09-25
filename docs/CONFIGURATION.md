@@ -1,4 +1,4 @@
-﻿# Configuration
+# Configuration
 
 Clock+ currently has two kinds of options: normal clock settings and launcher behavior.
 

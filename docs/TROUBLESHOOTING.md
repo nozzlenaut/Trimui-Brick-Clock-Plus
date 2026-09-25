@@ -1,4 +1,4 @@
-﻿# Troubleshooting
+# Troubleshooting
 
 ## Clock+ opens, but there is no sync/status line
 
